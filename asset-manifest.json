@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/luyaneluiz/ZipcodeFinder-React.git/static/css/main.2e3e50df.css",
+    "main.js": "/luyaneluiz/ZipcodeFinder-React.git/static/js/main.209694e6.js",
+    "static/media/logo-expanded.png": "/luyaneluiz/ZipcodeFinder-React.git/static/media/logo-expanded.f55b9214d810a920bfee.png",
+    "index.html": "/luyaneluiz/ZipcodeFinder-React.git/index.html",
+    "main.2e3e50df.css.map": "/luyaneluiz/ZipcodeFinder-React.git/static/css/main.2e3e50df.css.map",
+    "main.209694e6.js.map": "/luyaneluiz/ZipcodeFinder-React.git/static/js/main.209694e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3e50df.css",
+    "static/js/main.209694e6.js"
+  ]
+}
